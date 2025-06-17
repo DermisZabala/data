@@ -305,6 +305,137 @@
           "embed_url": "https://filemoon.sx/e/873oded54ngd"
         }
       ]
+    },
+    {
+      "id": 678512,
+      "imdb_id": "tt7599146",
+      "title": "Sound of Freedom",
+      "overview": "Tim Ballard, un exagente del gobierno de Estados Unidos, que decide renunciar a su trabajo para dedicar su vida a la lucha contra la explotación infantil.",
+      "poster_path": "/aKfNw4vqbI62HAMI04imwAPjC05.jpg",
+      "backdrop_path": "/7JqWWLCajnt6XWCrRlgvtsYP0u6.jpg",
+      "release_date": "2023-07-03",
+      "rating": "8.0",
+      "genres": [
+        "Acción",
+        "Drama"
+      ],
+      "cast": [
+        "Jim Caviezel",
+        "Mira Sorvino",
+        "Bill Camp",
+        "Gerardo Taracena",
+        "Kurt Fuller"
+      ],
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/g9rq80c0otet"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/zMYabvWdg3CYjjm"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/uslkrbmewhsq"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/yqpphozoci39"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/S5g2AOatpvAn"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/7jb55gkrenln"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/02zg3pt28yqi"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/yLMtZlLp5oQs"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/yduroy7vcitr"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/678512"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/q2rvdcgph2q1"
+        }
+      ]
+    },
+    {
+      "id": 18183,
+      "imdb_id": "tt0103994",
+      "title": "Como agua para chocolate",
+      "overview": "Historia de amor y gastronomía ambientada en México a principios del siglo XX. Dos jóvenes locamente enamorados, Tita y Pedro, tienen que renunciar a su amor porque Mamá Elena decide que Tita, por ser la menor de sus hijas, debe quedarse soltera para cuidarla en su vejez. Entre los olores y sabores de la cocina tradicional mexicana, Tita sufrirá durante muchos años por un amor que perdurará más allá del tiempo.",
+      "poster_path": "/bBToqYouLBaoojtC6AyRNeFcQoV.jpg",
+      "backdrop_path": "/fi7gBF2nfIGWF9MuOhuEr6rkgBQ.jpg",
+      "release_date": "1992-04-16",
+      "rating": "7.3",
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "cast": [
+        "Lumi Cavazos",
+        "Regina Torné",
+        "Ada Carrasco",
+        "Marco Leonardi",
+        "Mario Iván Martínez"
+      ],
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/73kyqzyldkmz"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/avofpzh09jws"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://vidhidepro.com/v/jiqg6hmy2fgu"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/0qz349qr8149"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/iPSxStUsuU7a"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/18183"
+        }
+      ]
     }
   ],
   "series": [
