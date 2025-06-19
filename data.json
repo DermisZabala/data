@@ -25941,10 +25941,6 @@
               ]
             }
           ]
-        },
-        {
-          "season_number": 2,
-          "episodes": []
         }
       ]
     },
@@ -34131,6 +34127,945 @@
                   "language": "Subtitulado",
                   "server_name": "Vidsrc",
                   "embed_url": "https://vidsrc.to/embed/tv/1398/6/21"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 79086,
+      "imdb_id": "tt8080122",
+      "title": "El padrino de Harlem",
+      "overview": "Cuenta la historia del infame jefe del crimen Bumpy Johnson, quien a principios de la década de 1960 regresó de cumplir una condena de diez años de prisión, para encontrar el vecindario que una vez gobernó en ruinas. Con las calles controladas por la mafia italiana, Bumpy debe enfrentarse a la familia criminal Genovese para recuperar el control.",
+      "poster_path": "/VhACYfMldohwyMo0XzmCs1xYgU.jpg",
+      "backdrop_path": "/8SC24iAMhPUjymFmUqWstOtpwNl.jpg",
+      "release_date": "2019-09-29",
+      "rating": "8.1",
+      "genres": [
+        "Drama",
+        "Crimen"
+      ],
+      "cast": [
+        "Forest Whitaker",
+        "Erik LaRay Harvey",
+        "Ilfenesh Hadera",
+        "Antoinette Crowe-Legacy",
+        "Lucy Fry"
+      ],
+      "type": "Serie",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "Por lo que sea necesario",
+              "overview": "Bumpy Johnson sale de Alcatraz e intenta recuperar el poder en Harlem, pero la calle está bajo el control de la mafia italiana, así que debe enfrentarse a una familia del crimen genovesa liderada por Vincent Chin Gigante.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/ktpAxj2bL7Cw"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/lh15ejhl1ch1"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/pl44gh1ddd0m"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/1/1"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "title": "Y hago lo que quiero",
+              "overview": "Bumpy Johnson debe recobrar el control del tráfico de drogas si quiere controlar Harlem y traza un plan muy temerario para robarle heroína a una víctima poco común.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/Xpc1g3jqUC0Q"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/0dmzxvsyzkti"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/iekelln77pw4"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/6pykpvs3u5ov"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/1/2"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "title": "Nuestro día llegará",
+              "overview": "Cuando detienen a la hija de Bumpy por robo, Malcom X y Adam Clayton Powell utilizan el incidente a su favor. La mafia desvela sus intenciones ocultas y Bumpy debe escoger entre vengarse y que haya revueltas en Harlem.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/12p5x52idvij"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/GvaJm7oByUKR"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/yi6msniacihv"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/1/3"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "title": "Soy el más grande",
+              "overview": "Cassius Clay se enfrenta al boxeador local Doug Jones. Mayme insiste en que Bumpy apoye a Jones, un defensor de su organización juvenil en Harlem, pero Malcom le pide a Bumpy que apoye a Clay. Chin se enfrenta a Bonnano por el control de Harlem.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/m0edskpgtyud"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/u317nk1sbpdh"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/RPUQufZOO0HO"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/1/4"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "title": "Todo forma parte del juego",
+              "overview": "Chin amaña una apuesta para que Bumpy pierda dinero y Bumpy acaba debiéndoles a los ganadores más de lo que tiene. La policía arresta a Stella y Teddy por besarse. Elise recurre a la Nación del Islam para mejorar como persona.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/BDPxtNQf1QWX"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/77xqsddl8vme"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/y5uxqkk22ps6"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/xpyeswhouu1w"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/1/5"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "title": "Il Canto de Malavita",
+              "overview": "Bumpy debe asesinar a una persona que testificará contra la familia genovesa para pagar su deuda. Elijah Muhammed visita la mezquita de Malcom X, allí se encuentra a Elise y le pide que espíe a Malcom. Chin se entera de que Teddy está vivo.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/mo7tov8dhsi9"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/opqbudu5pysn"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/ftsS61HZGixY"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/1/6"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "title": "Los señores de la guerra",
+              "overview": "Bumpy provoca una guerra entre la familia genovesa y los Bonanno. Cuando Margaret desaparece, Mayme se une a Elise en un intento desesperado de encontrarla.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/nVZuJ0k5RcSe"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/78t41dpsdwys"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/1/7"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "title": "Cómo lo superé",
+              "overview": "Bumpy está furioso tras su intento de asesinato e ignora las reglas de la mafia para vengarse. Malcom X y Adam Clayton Powell protestan de manera pacífica y Bumpy debe decidir si un acto violento cambiará su destino.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/T3gYDLAXEHSw"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/pkq93himhxt0"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/1/8"
+                }
+              ]
+            },
+            {
+              "episode_number": 9,
+              "title": "El blues de la huela de alquileres",
+              "overview": "Las condiciones de vida en Harlem provocan una protesta violenta y Bumpy debe hacer que Adam Clayton Powell abandone su investigación antes de que los italianos actúen. Chin intenta poner a las familias en contra de Bumpy.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/cJMJxnQFvEQd"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/y9t8oxdgwspt"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/1/9"
+                }
+              ]
+            },
+            {
+              "episode_number": 10,
+              "title": "Las gallinas vuelven a casa a descansar",
+              "overview": "Tras el asesinato de JFK, Bumpy debe defenderse de una acusación de homicidio. La Nación expulsa a Malcom y Bumpy se da cuenta de que tendrá que defender a su amigo de un montón de enemigos.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/i1yoo3del9lt"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/qeoprcecvhwn"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/JublkNBgjY8l"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/1/10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "Los negros de la América blanca",
+              "overview": "Para pagar una deuda de drogas contraída con los italianos tras los disturbios de Harlem, Bumpy Johnson roba a su propia comunidad. Omar intenta recuperar la confianza de Elise y Malcolm. Alguien cercano a Stella ordena asesinarla.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/e6DgnNqIUwPZ"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/QwRGVgeb77IAwZ"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/3e65t44xlv53"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/nk3gfjhz7xh5"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/ho92v4gpsv0k"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/3/1"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "title": "Alzado",
+              "overview": "Joe Colombo lleva a cabo un secuestro y BUmpy se prepara para la guerra. Bumpy sabe que necesita una alianza y se asocia al mafioso cubano Jose Battle. Chin le pide a Colombo que proteja a Stella.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/0ojlmydj79sm"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/BBVeRbD9ZeIyOVk"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/I86MauKBpSiR"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/rw304b93w9gz"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/omztge7ljma1"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/3/2"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "title": "La Meca",
+              "overview": "Jose Battle le pide un favor a su nuevo aliado Bumpy, el asesinato de un político. Las autoridades saudíes detienen a Malcolm X cuando viaja a La Meca. Mayme se convierte en el blanco del fiscal del distrito por sus conexiones.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/ui97lsafjyc0"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/0bg1i3b4tz6s"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/p4ZrM6JAbbFrkzM"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/T86bR21O0OCm"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/h4p490pqjlaq"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/3/3"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "title": "El comisario Fields",
+              "overview": "Cuando dos policías uniformados atacan al Geechee, Bumpy y Battle intentan hacerse con el control del distrito policial 27. Stella decide si delatará a Colombo. Malcolm corre peligro en el Cairo.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/znsdjqbdn2ba"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/8gUFZFMQ2Spm"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/a9w4yeat1gbe"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/wgnlvolp2eol"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/8KAPmYXlQLTor0K"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/3/4"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "title": "Ángel de la muerte",
+              "overview": "Bumpy y Colombo se enfrentan por el control del comercio de heroína cuando Monsieur 98 regresa para traer el próximo envío. Omar hace un llamamiento romántico a Elise. Pettigrew descubre la cocaína a través de su relación amorosa con una mujer cubana.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/0ssd3x89aadh"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/9KBc26aFrauQ"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/pLYo3MboMMhrKBZ"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/8w2sh8pji525"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/3/5"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "title": "Espías",
+              "overview": "Bumpy utiliza los contactos de Battle en la CIA para asegurarse un suministro constante de una nueva droga: la cocaína. Stella miente a Fineman en un intento de escapar a la supervisión de Colombo. Mayme solicita un contrato gubernamental para Palmetto.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/qt8kt6etfk3t"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/esntkftPG14K"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/4y4lvrfsg70z"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/ecf0kanj4nih"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/v2MWr6D4YOU43Yl"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/3/6"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "title": "Todos los caminos conducen a Malcolm",
+              "overview": "Cuando arrestan a Battle, Bumpy debe encontrar la manera de liberarlo y encontrar al topo. Bumpy descubre que Malcolm X tiene más enemigos de los que pensaba.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/ZkBZj0l8ePuqWql"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/6esst3cv91v3"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/z17la10c4eox"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/qxBUXemXd518"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/ahdx5yw9t0hu"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/3/7"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "title": "Patria o Muerte",
+              "overview": "Bumpy descubre un complot de la CIA para asesinar a Malcolm X y Che Guevara en las Naciones Unidas. Malcolm escribe su autobiografía. Olympia utiliza al padre Louis para salir del apuro.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/7gxov5auqi18"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/uxzmteh5ied9"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/wngycq91l8d4"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/Pq8WOX4mxlh0dxp"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/z62of944mc5b"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/3/8"
+                }
+              ]
+            },
+            {
+              "episode_number": 9,
+              "title": "Todos somos reyes",
+              "overview": "Chin Gigante sale de prisión y busca extirpar a Joe Colombo de la Comisión.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/2qoofu3572gb"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/Bq6mXQWAJvtyzXX"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/mff5cgnc9n2n"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/h4eGfvfnHRWd"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/y38q1yw0y031"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/3/9"
+                }
+              ]
+            },
+            {
+              "episode_number": 10,
+              "title": "Nuestro Príncipe Negro Brillante",
+              "overview": "Bumpy y Chin solicitan la ayuda de Morgenthau para evitar que Colombo y Battle traigan un cargamento de heroína, armas y cocaína. Stella debe elegir entre Colombo y su padre.",
+              "sources": [
+                {
+                  "language": "Español",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/buJUuoYhX022"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamtape",
+                  "embed_url": "https://streamtape.com/e/xvk4vwkpVGukO7z"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/ljqqlc79wkf3"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/7lpgypr12dvi"
+                },
+                {
+                  "language": "Español",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/60jfis81vktt"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/3/10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "title": "Nuevo Harlem",
+              "overview": "Bumpy planea construir un nuevo club en Harlem pero debe encontrar una nueva forma de financiarlo sin el negocio de la heroína. Elise testifica en el juicio por asesinato de Malcolm X cuando tres hombres inocentes son acusados. Stella negocia un acuerdo comercial entre Colombo y Chin.",
+              "sources": [
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/4/1"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/pv739t6l5o3m"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/y39ohsa2zo2i"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/br5qyuuaxezu"
+                }
+              ]
+            },
+            {
+              "episode_number": 2,
+              "title": "Campesino",
+              "overview": "Una lucha de poder estalla en Harlem mientras Bumpy busca aliados contra la traición de Chin. Mientras tanto, asigna un arriesgado atraco de heroína a Frank Lucas, mientras Elise descubre secretos mortales y Stella maniobra para hacerse con el control.",
+              "sources": [
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/r42o6734e2vz"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/by25z1mpgsnx"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/ZdMFCMUQAPpz"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/wex7l95ogfs2"
+                }
+              ]
+            },
+            {
+              "episode_number": 3,
+              "title": "El hombre de paja",
+              "overview": "Bumpy se enfrenta a un promotor blanco por la propiedad de su club. Mayme y Elise protestan en la escuela de Margaret. Stella investiga la droga que han robado.",
+              "sources": [
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/puao9ipvnfrv"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/2z1mddy6zl85"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/ogyvyuc3ligc"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/6exwoz0ii34c"
+                }
+              ]
+            },
+            {
+              "episode_number": 4,
+              "title": "Blues de la Unión",
+              "overview": "Bumpy lucha contra una huelga sindical que amenaza la construcción del club. Elise paga la fianza de un compañero Panther y Frank se enfrenta a las consecuencias del asesinato del vaquero Nick.",
+              "sources": [
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/c2eoulll9yfv"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/og65dbwt79k2"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/cn3g5wenqi8e"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/2uyq5ll9s0tn"
+                }
+              ]
+            },
+            {
+              "episode_number": 5,
+              "title": "Jungla de cemento",
+              "overview": "Bumpy encuentra un nuevo proveedor de hormigón que subvierte los pagos a los italianos; Elise y los Panthers planean una acción simbólica contra la policía; Frank hace un trabajo para Colombo; Mayme le pide a James Baldwin que haga una lectura para la Junta de Bellas Artes.",
+              "sources": [
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/jll8ejph6z2u"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/q2v4ze4t79fi"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/4/5"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/l3utprdbhcuu"
+                }
+              ]
+            },
+            {
+              "episode_number": 6,
+              "title": "La visita",
+              "overview": "Bumpy sufre un infarto y, en el hospital, sufre visiones y se le aparece Malcolm. Debe negociar con Colombo para asegurar el regreso de Chance.",
+              "sources": [
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/8onhpd39v96x"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/5uyjtjb7lsgz"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/NmGMI62sWPQp"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/4/6"
+                }
+              ]
+            },
+            {
+              "episode_number": 7,
+              "title": "El peón va primero",
+              "overview": "Clair abre sus puertas, pero Bumpy tiene que pagar un impuesto a Colombo; Frank busca protección contra los italianos que intentan matarle; Colombo responde al acoso del FBI; Sadiq se sincera con Elise; Mayme se enfrenta a un obstáculo financiero para entrar en el Consejo de Bellas Artes.",
+              "sources": [
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/toou7ku0kuao"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/ys6td6e11czp"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/C8C3yRAWutth"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/o0491k91rmq3"
+                }
+              ]
+            },
+            {
+              "episode_number": 8,
+              "title": "Si hemos de morir",
+              "overview": "Fred Straub vuelve a demandar a Bumpy por la propiedad del St. Clair, pero esta vez cuenta con el apoyo de la mafia italiana; los Panthers intervienen cuando el hijo de Delia es reclutado para Vietnam; Colombo hace una interesante propuesta a Stella.",
+              "sources": [
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/8cL087mYUVd0"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidsrc",
+                  "embed_url": "https://vidsrc.to/embed/tv/79086/4/8"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/9iiy5xyzt9eg"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Streamwish",
+                  "embed_url": "https://streamwish.to/e/g3wbig47y627"
+                }
+              ]
+            },
+            {
+              "episode_number": 9,
+              "title": "Blanco y negro",
+              "overview": "Sin el St. Clair, Bumpy se ve obligado a traer de vuelta a Harlem a un viejo enemigo para que se encargue de Joe Colombo.",
+              "sources": [
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Vidhide",
+                  "embed_url": "https://vidhidepro.com/v/3szkrn2yw8qt"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/y7lp3t3d790a"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/lONtOFHkyKNv"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/dkichfvsd3xv"
+                }
+              ]
+            },
+            {
+              "episode_number": 10,
+              "title": "Episodio 10",
+              "overview": "",
+              "sources": [
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Doodstream",
+                  "embed_url": "https://doodstream.com/e/z6fkw46022r8"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Netu",
+                  "embed_url": "https://waaw.to/f/No4K2ZuWfwfq"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Voesx",
+                  "embed_url": "https://voe.sx/e/vidastyyhhze"
+                },
+                {
+                  "language": "Subtitulado",
+                  "server_name": "Filemoon",
+                  "embed_url": "https://filemoon.sx/e/jh806x7ntjcs"
                 }
               ]
             }
