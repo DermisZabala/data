@@ -2119,6 +2119,150 @@
           "embed_url": "https://vidsrc.to/embed/movie/4935"
         }
       ]
+    },
+    {
+      "id": 807,
+      "imdb_id": "tt0114369",
+      "title": "Seven",
+      "overview": "El teniente Somerset, del departamento de homicidios, está a punto de jubilarse y ser reemplazado por el ambicioso y brillante detective David Mills. Ambos tendrán que colaborar en la resolución de una serie de asesinatos cometidos por un psicópata que toma como base la relación de los siete pecados capitales: gula, pereza, soberbia, avaricia, envidia, lujuria e ira. Los cuerpos de las víctimas, sobre los que el asesino se ensaña de manera impúdica, se convertirán para los policías en un enigma que les obligará a viajar al horror y la barbarie más absoluta.",
+      "poster_path": "/uVPcVz4b2hnSGrXYLdIGRXwcivs.jpg",
+      "backdrop_path": "/p1PLSI5Nw2krGxD7X4ulul1tDAk.jpg",
+      "release_date": "1995-09-22",
+      "rating": "8.4",
+      "genres": [
+        "Crimen",
+        "Misterio",
+        "Suspense"
+      ],
+      "cast": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Gwyneth Paltrow",
+        "John Cassini",
+        "Peter Crombie"
+      ],
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/fibbaflqz2i5"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/w6G84bDovMHJvW4"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/kgrrowc34vw7"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/yluxco014irb"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/k57n4bj6fhl7"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/807"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/plqd9xuzg1kz"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/vBv4vwygeWi4vbB"
+        }
+      ]
+    },
+    {
+      "id": 569094,
+      "imdb_id": "tt9362722",
+      "title": "Spider-Man: Cruzando el Multiverso",
+      "overview": "Tras reencontrarse con Gwen Stacy, el amigable vecindario de Spider-Man de Brooklyn al completo es catapultado a través del Multiverso, donde se encuentra con un equipo de Spidermans encargados de proteger su propia existencia. Pero cuando los héroes se enfrentan sobre cómo manejar una nueva amenaza, Miles se encuentra enfrentado a las otras Arañas y debe redefinir lo que significa ser un héroe para poder salvar a la gente que más quiere.",
+      "poster_path": "/37WcNMgNOMxdhT87MFl7tq7FM1.jpg",
+      "backdrop_path": "/kVd3a9YeLGkoeR50jGEXM6EqseS.jpg",
+      "release_date": "2023-05-31",
+      "rating": "8.3",
+      "genres": [
+        "Animación",
+        "Acción",
+        "Aventura",
+        "Ciencia ficción"
+      ],
+      "cast": [
+        "Shameik Moore",
+        "Hailee Steinfeld",
+        "Brian Tyree Henry",
+        "Luna Lauren Velez",
+        "Jake Johnson"
+      ],
+      "sources": [
+        {
+          "language": "Español",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/kmhvjbuh398f"
+        },
+        {
+          "language": "Español",
+          "server_name": "Vidhide",
+          "embed_url": "https://filelions.to/v/2d4zfm3n4ozy"
+        },
+        {
+          "language": "Español",
+          "server_name": "Streamtape",
+          "embed_url": "https://streamtape.com/e/ywDR6yxL1At1rgW"
+        },
+        {
+          "language": "Español",
+          "server_name": "Netu",
+          "embed_url": "https://waaw.to/f/Ywok8Fc7Yqv9"
+        },
+        {
+          "language": "Español",
+          "server_name": "Doodstream",
+          "embed_url": "https://doodstream.com/e/86hcuvux1x6h"
+        },
+        {
+          "language": "Español",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/i48fvhw8s6hm"
+        },
+        {
+          "language": "Español",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/dezidwlrtrmr"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Filemoon",
+          "embed_url": "https://filemoon.sx/e/da97aiipqioi"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Vidsrc",
+          "embed_url": "https://vidsrc.to/embed/movie/569094"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Voesx",
+          "embed_url": "https://voe.sx/e/0g5j7ajikgto"
+        },
+        {
+          "language": "Subtitulado",
+          "server_name": "Streamwish",
+          "embed_url": "https://streamwish.to/e/1n5jpvf9umu7"
+        }
+      ]
     }
   ],
   "series": [
